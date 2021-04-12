@@ -8,45 +8,6 @@
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
-<table>
-  <tr>
-    <td align="center" width="160">
-      <a href="https://github.com/ant-design">
-        <img src="https://avatars1.githubusercontent.com/u/12101536?s=200&v=4" width="50" />
-        <br />
-        ant-design
-      </a>
-    </td>
-    <td align="center" width="160">
-      <a href="https://github.com/react-component">
-        <img src="https://avatars1.githubusercontent.com/u/9441414?s=200&v=4" width="50" />
-        <br />
-        react-component
-      </a>
-    </td>
-    <td align="center" width="160">
-      <a href="https://github.com/vueComponent">
-        <img src="https://avatars2.githubusercontent.com/u/32120805?s=200&v=4" width="50" />
-        <br />
-        vueComponent
-      </a>
-    </td>
-    <td align="center" width="160">
-      <a href="https://github.com/umijs">
-        <img src="https://avatars2.githubusercontent.com/u/33895495?s=200&v=4" width="50" />
-        <br />
-        umijs
-      </a>
-    </td>
-    <td align="center" width="160">
-      <a href="https://github.com/actions-cool">
-        <img src="https://avatars1.githubusercontent.com/u/73879334?s=200&v=4" width="50" />
-        <br />
-        actions-cool
-      </a>
-    </td>
-  </tr>
-</table>
 
 At the same time I also do some other
 
