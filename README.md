@@ -8,17 +8,31 @@
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
+## 🛠  Technologies and tools
+<a name="learning-now"></a>
 
-At the same time I also do some other
+[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][learning_now_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][learning_now_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />][learning_now_anchor]
+<a name="learning-next"></a>
 
-[![](https://img.shields.io/badge/zoo-js-ff69b4?style=flat-square)](https://github.com/zoo-js)
-[![](https://img.shields.io/badge/image-component-fa8c16?style=flat-square)](https://github.com/image-component)
-[![](https://img.shields.io/badge/one-template-08979c?style=flat-square)](https://github.com/one-template)
-[![](https://img.shields.io/badge/compare-similarity-%23ff4d4f?style=flat-square)](https://github.com/xrkffgg/compare-similarity)
-[![](https://img.shields.io/badge/K-tools-%239287e7?style=flat-square)](https://github.com/xrkffgg/Ktools)
-[![](https://img.shields.io/badge/K-notes-%231890ff?style=flat-square)](https://github.com/xrkffgg/Knotes)
-[![](https://img.shields.io/badge/K-vue-3eaf7c?style=flat-square)](https://github.com/xrkffgg/Kvue)
-[![](https://img.shields.io/badge/K-progress-%23ff7875?style=flat-square)](https://github.com/xrkffgg/k-progress)
+
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1569381018/6481/heart-8bit-1.gif?1569381018" width="28" /> Remember</h3>
 
