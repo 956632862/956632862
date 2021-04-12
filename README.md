@@ -1,4 +1,6 @@
-# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+<h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> 你又偷偷来看我了！ </h2>
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <p align="center">
 <a href="https://twitter.com/apoorv__tyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
 <a href="https://linkedin.com/in/apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
@@ -6,21 +8,6 @@
 </p>
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
-
-### 🤵 About Me:
-- 🏦 I'm a Software Engineer working for a health tech startup in India 
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I regulary write technical articles on [hashnode](https://apoorvtyagi.tech/) & [dev.to](https://dev.to/apoorvtyagi)
-- 🌱 I also run a tech newsletter : [The Trojan - Wednesday Wisdom ⚡](https://newsletter.apoorvtyagi.tech/)
-- 💻 I use daily **.java**, **.py**, **.sql**
-- 📖 I am currently reading [zero to one by Peter Thiel](https://amzn.to/3dTQa0k)
-- 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley & startups
-- 👯 We can connect to play some games of Chess ♟
-- ⚡ Fun fact: Je connais un peu le français
-
-<h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, welcome! </h2>
-
-I'm **xrkffgg**, a Front-end developer from **China** <img src="https://image.flaticon.com/icons/svg/630/630667.svg" width="28" />. In most cases, active in the following. Welcome to try them.
 
 <table>
   <tr>
