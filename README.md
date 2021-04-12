@@ -18,65 +18,80 @@
 - 👯 We can connect to play some games of Chess ♟
 - ⚡ Fun fact: Je connais un peu le français
 
-<p align="center">
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="85" height="70"/> 
-      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="IPYNB" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="110" height="75"/> 
+<h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, welcome! </h2>
+
+I'm **xrkffgg**, a Front-end developer from **China** <img src="https://image.flaticon.com/icons/svg/630/630667.svg" width="28" />. In most cases, active in the following. Welcome to try them.
+
+<table>
+  <tr>
+    <td align="center" width="160">
+      <a href="https://github.com/ant-design">
+        <img src="https://avatars1.githubusercontent.com/u/12101536?s=200&v=4" width="50" />
+        <br />
+        ant-design
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/react-component">
+        <img src="https://avatars1.githubusercontent.com/u/9441414?s=200&v=4" width="50" />
+        <br />
+        react-component
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/vueComponent">
+        <img src="https://avatars2.githubusercontent.com/u/32120805?s=200&v=4" width="50" />
+        <br />
+        vueComponent
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/umijs">
+        <img src="https://avatars2.githubusercontent.com/u/33895495?s=200&v=4" width="50" />
+        <br />
+        umijs
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/actions-cool">
+        <img src="https://avatars1.githubusercontent.com/u/73879334?s=200&v=4" width="50" />
+        <br />
+        actions-cool
+      </a>
+    </td>
+  </tr>
+</table>
+
+At the same time I also do some other
+
+[![](https://img.shields.io/badge/zoo-js-ff69b4?style=flat-square)](https://github.com/zoo-js)
+[![](https://img.shields.io/badge/image-component-fa8c16?style=flat-square)](https://github.com/image-component)
+[![](https://img.shields.io/badge/one-template-08979c?style=flat-square)](https://github.com/one-template)
+[![](https://img.shields.io/badge/compare-similarity-%23ff4d4f?style=flat-square)](https://github.com/xrkffgg/compare-similarity)
+[![](https://img.shields.io/badge/K-tools-%239287e7?style=flat-square)](https://github.com/xrkffgg/Ktools)
+[![](https://img.shields.io/badge/K-notes-%231890ff?style=flat-square)](https://github.com/xrkffgg/Knotes)
+[![](https://img.shields.io/badge/K-vue-3eaf7c?style=flat-square)](https://github.com/xrkffgg/Kvue)
+[![](https://img.shields.io/badge/K-progress-%23ff7875?style=flat-square)](https://github.com/xrkffgg/k-progress)
+
+<h3> <img src="https://emojis.slackmojis.com/emojis/images/1569381018/6481/heart-8bit-1.gif?1569381018" width="28" /> Remember</h3>
+
+```
+   _ __   _____   _____ _ __    ___  __ _ _   _    _ __   _____   _____ _ __
+  | '_ \ / _ \ \ / / _ \ '__|  / __|/ _` | | | |  | '_ \ / _ \ \ / / _ \ '__|
+  | | | |  __/\ V /  __/ |     \__ \ (_| | |_| |  | | | |  __/\ V /  __/ |
+  |_| |_|\___| \_/ \___|_|     |___/\__,_|\__, |  |_| |_|\___| \_/ \___|_|
+                                          |___/
+```
+
+<h3> <img src="https://emojis.slackmojis.com/emojis/images/1600987727/10624/chillwcat_youtube.png?1600987727" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
+
+<kbd>2021-04-12</kbd>
+
+- 做你该做的事，并且接受它的事与愿违，我们需要努力，但是也许我们努力了，我们最终依然是竹篮打水一场空，但并不代表着我们不应该努力。
+
+<!-- Randomly taken from quotations.md -->
+
+<p align="right">
+<img src="https://visitor-badge.glitch.me/badge?page_id=xrkffgg.xrkffgg" />
+<img src="http://hits.dwyl.com/xrkffgg/xrkffgg.svg" />
 </p>
-
----
-### 🐱My Github stats:
-![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=apoorvtyagi&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.19% 
-🌆 Daytime    96 commits     ██████░░░░░░░░░░░░░░░░░░░   25.95% 
-🌃 Evening    189 commits    ████████████░░░░░░░░░░░░░   51.08% 
-🌙 Night      51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.78%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.68% 
-Tuesday      30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.85% 
-Wednesday    64 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.88% 
-Thursday     16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.72% 
-Friday       22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.49% 
-Saturday     75 commits     █████░░░░░░░░░░░░░░░░░░░░   22.12% 
-Sunday       89 commits     ██████░░░░░░░░░░░░░░░░░░░   26.25%
-
-```
-
-
-
-<!--END_SECTION:waka-->
-
-⏳ **Year Progress** { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 27.67 % as on ⏰ 12-4-2021.
-
----
-
-### 📕 My Latest Blog posts:
-<!-- BLOG-POST-LIST:START -->
-- [Debunking YOUR Basic Math Concepts](https://apoorvtyagi.tech/mythbusting-mathematics-can-you-solve-this)
-- [JavaScript -Better way to check for "Nullish" Value Only!](https://apoorvtyagi.tech/nullish-coalescing-operator-vs-logical-or-javascript)
-- [Welcome to the world of "NFTs"](https://apoorvtyagi.tech/welcome-to-the-world-of-nft)
-- [What is Blockchain Technology? Learn by creating one](https://apoorvtyagi.tech/creating-blockchain-python)
-- [Five++ cool Python snippets that will blow your mind🤯](https://apoorvtyagi.tech/cool-python-snippets-that-will-blow-your-mind)
-<!-- BLOG-POST-LIST:END -->
----
-
-### 😜Here's a Joke for you:
-<img src="https://readme-jokes.vercel.app/api" alt="Refresh again to view Jokes Card" />
-
