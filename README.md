@@ -1,3 +1,5 @@
+<div style="background:black">
+
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> 你又偷偷来看我了！ </h2>
 
 <p align="center">
@@ -50,3 +52,4 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=xrkffgg.xrkffgg" />
 <img src="http://hits.dwyl.com/xrkffgg/xrkffgg.svg" />
 </p>
+</div>
